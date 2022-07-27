@@ -5,4 +5,4 @@
 1. Заполните массив значениями ваших продаж
 1. запустите программу
 
-[скачать прорамму](https://github.com/Pchelintcev/VCS01.git)
+[код прораммы](https://github.com/Pchelintcev/VCS01.git)
