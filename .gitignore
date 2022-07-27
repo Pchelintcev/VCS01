@@ -1,4 +1,6 @@
-.idea/
-VCS01.iml
+*.iml
+.idea
+out/
+
 
 
